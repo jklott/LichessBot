@@ -1,7 +1,7 @@
 # LichessBot
 Bot created for lichess.com using open source stockfish chess engine
 
-This is a continuation of https://github.com/inushahapuarachch/LichessBot
+This is a fork of https://github.com/inushahapuarachch/LichessBot
 
 Using Javascript you can utilise the open source chess engine stockfish https://github.com/nmrugg/stockfish.js/blob/master/stockfishjs alongside websockets to have a fully automated bot that does not even need to be viewable on your screen (no mouse clicks etc) in around 40 lines of code.
 
