@@ -25,3 +25,9 @@ lichessBot is stockfish level 7 and moves almost instantly (very obviously a bot
 
 # Disclaimer
 Using this script against real players is cheating and may get you banned.
+
+# To-do:
+
+[x] Create multiple scripts of various skill
+
+[ ] Improve nerfs/buffs to scripts to seperate them more
