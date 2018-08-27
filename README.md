@@ -18,8 +18,10 @@ Using Javascript you can utilise the open source chess engine stockfish https://
 There are 3 scripts, each which are varying levels of skill.
 
 lichessLegit is stockfish level 6 and moves at a good human level pace
+
 lichessFast is stockfish level 6 and moves at very fast speeds (still doable for a human)
-lichessCheat is stockfish level 7 and moves almost instantly (very obviously a bot)
+
+lichessBot is stockfish level 7 and moves almost instantly (very obviously a bot)
 
 # Disclaimer
 Using this script against real players is cheating and may get you banned.
