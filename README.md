@@ -8,7 +8,7 @@ Using Javascript you can utilise the open source chess engine stockfish https://
 # How to Use
 
 1. Get tampermonkey extension
-2. Create userscript and paste the lichess.js into it
+2. Create userscript and paste the chosen version lichess.js into it
 3. Go to lichess.org
 4. Play any game
 5. Enjoy!
