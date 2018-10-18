@@ -23,5 +23,7 @@ lichessFast is stockfish level 6 and moves at very fast speeds (still doable for
 
 lichessBot is stockfish level 7 and moves almost instantly (very obviously a bot)
 
+There is a feature which allows you to have the bot automatically find a new game (so it can continue to play without you needing to touch anything after a match ends) This is disabled by default. If you wish to enable it, search for the line //findNewOpponent(); and remove the //
+
 # Disclaimer
 Using this script against real players is cheating and may get you banned
