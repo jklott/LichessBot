@@ -1,3 +1,6 @@
+# DISCONTINUED
+This program is no longer fully functioning and is no longer being updated. If you would like to improve upon it and update it, feel free to clone this repository and add your own contributions. Thank you!
+
 # LichessBot
 Bot created for lichess.com using open source stockfish chess engine
 
